@@ -1,4 +1,5 @@
 # Debloat your samsung OneUI 🛠️
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#ab340f', 'L4L8OXTVH');kofiwidget2.draw();</script> 
 Remove unnecessary bloatware application from your Samsung Phone based on OneUI.
 
 # How to ❓ 
