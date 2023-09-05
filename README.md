@@ -9,4 +9,4 @@
 - Run "DebloatOneUi.bat".
 
 # Useful links 🔗
-- This site was built using [GitHub Pages](https://pages.github.com/).
+- ADB :[Download](https://pages.github.com/).
