@@ -9,4 +9,4 @@
 - Run "DebloatOneUi.bat".
 
 # Useful links 🔗
-- ADB : [Download]([https://pages.github.com/](https://developer.android.com/tools/releases/platform-tools)https://developer.android.com/tools/releases/platform-tools/).
+- ADB : [Download](https://developer.android.com/studio/intro).
