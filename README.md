@@ -9,4 +9,5 @@
 - Run "DebloatOneUi.bat".
 
 # Useful links 🔗
+- SAMSUNG USB DRIVERS : [Download](https://developer.samsung.com/android-usb-driver).
 - ADB : [Download](https://developer.android.com/studio/intro).
