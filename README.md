@@ -1,4 +1,5 @@
 # Debloat your samsung OneUI 🛠️
+Remove unnecessary bloatware application from your Samsung Phone based on OneUI.
 
 # How to ❓ 
 - Install samsung USB drivers.
