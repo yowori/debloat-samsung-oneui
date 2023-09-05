@@ -55,8 +55,10 @@ adb shell pm uninstall --user 0 com.android.stk
 
 # SIM Toolkit (Secondary).
 adb shell pm uninstall --user 0 com.android.stk2
+
 # Android Traceur (A system component for debugging and performance analysis).
 adb shell pm uninstall --user 0 com.android.traceur
+
 # Samsung's out-of-box experience setup.
 adb shell pm uninstall --user 0 com.aura.oobe.samsung
 
@@ -68,9 +70,11 @@ adb shell pm uninstall --user 0 com.facebook.system
 
 # Google Restore.
 adb shell pm uninstall --user 0 com.google.android.apps.restore
-#Google Restore.
+
+# Google Restore.
 adb shell pm uninstall --user 0 com.google.android.apps.tachyon
-#Google Turbo (Possibly a component of a Google app).
+
+# Google Turbo (Possibly a component of a Google app).
 adb shell pm uninstall --user 0 com.google.android.apps.turbo
 
 # Google Authenticator.
